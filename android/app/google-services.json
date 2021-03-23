@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "891781462530",
+    "firebase_url": "https://zabor-delivery.firebaseio.com",
+    "project_id": "zabor-delivery",
+    "storage_bucket": "zabor-delivery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891781462530:android:c66c96b202ed49e6c3c51b",
+        "android_client_info": {
+          "package_name": "com.zabor.delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891781462530-c1t0qlt96pi4n9l7itol3o88qh8k7i24.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7-GMyhQT2JWafgzwosPloR7OczQqEyNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891781462530-c1t0qlt96pi4n9l7itol3o88qh8k7i24.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>891781462530-76c1r3lj8li01fhkhlhl90vnd594d58g.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.891781462530-76c1r3lj8li01fhkhlhl90vnd594d58g</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBau6J5W5T-a954YguQbA4AyG7erwOKNXg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>891781462530</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.zabor.delivery</string>
+	<key>PROJECT_ID</key>
+	<string>zabor-delivery</string>
+	<key>STORAGE_BUCKET</key>
+	<string>zabor-delivery.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:891781462530:ios:99cb8d7003593cf5c3c51b</string>
+	<key>DATABASE_URL</key>
+	<string>https://zabor-delivery.firebaseio.com</string>
+</dict>
+</plist>
